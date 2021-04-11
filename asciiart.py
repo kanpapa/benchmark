@@ -6,7 +6,7 @@ for y in range(-12,12):
         cb=y*0.08333
         a=ca
         b=cb
-        for i in range(0,15):
+        for i in range(0,16):
             t=a*a-b*b+ca
             b=2*a*b+cb
             a=t
