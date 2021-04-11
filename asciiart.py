@@ -1,7 +1,7 @@
 # asciiart.py
 
-for y in range(-12,12):
-    for x in range(-39,39):
+for y in range(-12,13):
+    for x in range(-39,40):
         ca=x*0.0458
         cb=y*0.08333
         a=ca
